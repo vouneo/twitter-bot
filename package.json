@@ -1,12 +1,16 @@
 {
   "name": "twitter-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "postea cursed musick",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "./node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "vouneo",
+  "license": "",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "querystring": "^0.2.1"
+  }
 }
